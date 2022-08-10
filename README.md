@@ -4,7 +4,6 @@ Web Technologies used: HTML, CSS, JS, Bootstrap
 
 IDE: VS-Code
 
-<b>Note:</b> Bot is deployed on QnA page
 <br><br>
 
 ## Industry :
