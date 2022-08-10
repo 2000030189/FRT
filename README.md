@@ -8,7 +8,7 @@ IDE: VS-Code
 <br><br>
 
 ## Industry :
-Health
+Future Ready Talent
 <br><br>
 
 ### Project Title :
@@ -31,8 +31,6 @@ This project is about the website which is made for the purpose of chiropratic a
 >Static Web App<br>
 >Azure Bot Service<br>
 >QnA Maker<br>
->Web App Bot<br>
-
 
 -Other Azure Technologies :<br>
 >App Service<br>
