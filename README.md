@@ -34,4 +34,4 @@ This project is about the website which is made for the purpose of chiropratic a
 -Other Azure Technologies :<br>
 >App Service<br>
 
-<b>Project Link : </b>https://ambitious-plant-073718510.1.azurestaticapps.net/
+<b>Project Link : </b>https://white-sky-0869f2e10.2.azurestaticapps.net
